@@ -1,0 +1,1 @@
+insert into customer values(2,"prisha","pune","india",9090909080)
